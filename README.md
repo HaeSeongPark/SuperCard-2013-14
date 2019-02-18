@@ -8,7 +8,7 @@ Stanford CS193p Fall 2013-2014 SuperCard project
 
 | title      | Description| code        | 
 |:-----------|:-----------|------------:|
-|End of Lecture 7| [link](https://github.com/HaeSeongPark/Attributor/blob/master/Description/End%20of%20Lecture%207.md)   |   [link](https://github.com/HaeSeongPark/Attributor/tree/end_of_lecture7)|
+|End of Lecture 7| [link](https://github.com/HaeSeongPark/SuperCard-2013-14/blob/master/Description/End%20of%20Lecture%207.md)   |   [link](https://github.com/HaeSeongPark/SuperCard-2013-14/tree/endOfLecture7)|
 
 
 
